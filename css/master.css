@@ -11,7 +11,7 @@
     width: 100%;
     min-height: 100vh;
     /* مهمه  */
-    background-image: linear-gradient(rgba(4,9,30,0.4) , rgba(4, 9,30,0.46)) ,url(../imagesss/20.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.4) , rgba(4, 9,30,0.46)) ,url(../20.jpg);
     /* علشان يدي لون فوق الصوره مهمممممم */
     background-size: cover;
     background-position: center;
